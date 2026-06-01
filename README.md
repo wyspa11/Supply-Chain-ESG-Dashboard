@@ -16,3 +16,4 @@ A data processing pipeline and reporting dashboard designed to track logistics p
 
 3. **Visualization (Power BI):** 
    Connected the transformed dataset to Power BI to build an interactive dashboard visualizing SLA On-Time Delivery rates, average delay severity, and regional carbon footprints.
+   ![Supply Chain Dashboard](supply_chain.png)
